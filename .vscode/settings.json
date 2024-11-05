@@ -1,0 +1,24 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "typeinfo": "c",
+        "stdlib.h": "c",
+        "stdbool.h": "c",
+        "symtable.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "string": "cpp",
+        "vector": "cpp",
+        "system_error": "cpp",
+        "array": "cpp",
+        "quad.h": "c",
+        "optional": "c",
+        "istream": "c",
+        "ostream": "c",
+        "tuple": "c",
+        "type_traits": "c",
+        "utility": "c"
+    }
+}
